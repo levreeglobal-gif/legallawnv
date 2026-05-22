@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <!-- Concentric Lime Green Circles -->
+  <circle cx="100" cy="100" r="92" stroke="#81b045" stroke-width="3" fill="none" />
+  <circle cx="100" cy="100" r="86" stroke="#81b045" stroke-width="1.5" fill="none" />
+
+  <!-- Stylized Lady Justice Silhouette in Black (Elegant brush stroke style matching the uploaded draft) -->
+  <g transform="translate(42, 35) scale(0.95)" fill="#111111" stroke="#111111" stroke-width="0.5" stroke-linejoin="round">
+    <!-- Hair and Head -->
+    <path d="M 64 21 C 60 17, 60 11, 65 9 C 71 8, 77 15, 74 21 C 71 25, 68 25, 64 21 Z" />
+    <path d="M 61 24 C 63 24, 65 24, 65 26 C 63 28, 62 28, 60 26 C 60 25, 61 24, 61 24 Z" />
+    <path d="M 66 16 C 69 15, 71 16, 74 16 C 72 17, 70 17, 66 16 Z" />
+    
+    <!-- Face Profile Lines -->
+    <path d="M 65 22 Q 62 25 57 28 L 57 29 Q 62 29 65 26 Z" />
+    
+    <!-- Blindfold / Eye tie -->
+    <path d="M 63 15 L 75 14 Q 78 18 73 21 Z" />
+
+    <!-- Flowing Dress, Torso, and Arms (Minimalist high-contrast strokes) -->
+    <path d="M 65 29 C 55 31, 46 39, 41 47 C 38 52, 39 55, 41 55 C 44 53, 49 46, 57 41 C 63 38, 67 36, 73 38 L 74 36 C 70 34, 68 31, 65 29 Z" />
+    
+    <!-- Main dress flow and lower body curvature -->
+    <path d="M 54 44 C 58 43, 62 47, 65 52 C 67 55, 66 60, 68 64 C 70 68, 74 72, 79 73 C 81 74, 85 71, 88 66 C 92 60, 93 54, 89 48 C 84 41, 76 38, 70 38 Q 63 43 54 44 Z" />
+
+    <!-- Supporting stem / lower waist twist (T-bar / pillar style) -->
+    <path d="M 64 56 L 68 76 L 63 85 C 62 87, 63 88, 65 88 L 68 79 Z" />
+
+    <!-- Structural Scales Support (Balance beam) -->
+    <path d="M 55 76 Q 64 68 72 90 Q 75 102 77 114 C 79 122, 79 126, 77 131 C 75 137, 69 140, 65 141 L 64 141 C 69 140, 72 135, 73 129 L 68 98 Z" fill="#111111"/>
+
+    <!-- Left Balance Scale Structure (Hanging Scale) -->
+    <!-- Scale stem connecting to leftmost pan -->
+    <path d="M 57 77 L 46 100 L 40 120 C 37 125, 33 125, 31 120 C 30 115, 34 100, 41 91 Z" />
+    <path d="M 33 122 L 53 120 L 43 131 Z" />
+
+    <!-- Right Balance Scale Structure (Hanging Scale) -->
+    <!-- Scale stem connecting to rightmost pan -->
+    <path d="M 68 80 L 80 114 L 88 135 C 91 141, 87 146, 82 146 C 78 146, 72 135, 70 121 Z" />
+    <path d="M 75 137 L 91 133 L 83 151 Z" />
+  </g>
+</svg>

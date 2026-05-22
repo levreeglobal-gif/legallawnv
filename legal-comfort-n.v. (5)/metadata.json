@@ -1,0 +1,6 @@
+{
+  "name": "Legal Comfort N.V.",
+  "description": "Premium bilingual Surinamese law firm website in Paramaribo (English & Dutch). Grounded civil and corporate counsel with absolute discretion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
